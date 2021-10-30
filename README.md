@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kate Kunbi Sagay aka Kunbee</h1>
 <h3 align="center">A DevOps Engineer from United Kingdom</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katesagay&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 I’m currently learning **AWS SysOps**
 
