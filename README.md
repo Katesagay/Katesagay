@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kate Kunbi Sagay aka Kunbee</h1>
 <h3 align="center">A DevOps Engineer from United Kingdom</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katesagay&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-- 🌱 I’m currently learning **AWS SysOps**
+  
+<div style="float: right;">
+ - 🌱 I’m currently learning **AWS SysOps**
 
 - 👨‍💻 All of my projects are available at [-> repositories <-](https://github.com/Katesagay?tab=repositories)
 
@@ -12,7 +11,11 @@
 
 - 📫 How to reach me **kunbee.dev@outlook.com**
 
-- 📄 Know about my experiences [-> Resume <-](https://docs.google.com/document/d/1ktyP9EJuRQd6ckL54Qq1VGPDvILTyiHBNIeZip0-JYk/edit?usp=sharing)
+- 📄 Know about my experiences [-> Resume <-](https://docs.google.com/document/d/1ktyP9EJuRQd6ckL54Qq1VGPDvILTyiHBNIeZip0-JYk/edit?usp=sharing) </div>
+                                               
+[![Kate Kunbi Sagay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katesagay&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
