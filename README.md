@@ -3,7 +3,7 @@
 
   
 <div style="float: right;">
- - 🌱 I’m currently learning **AWS SysOps**
+ - 🌱 I’m currently learning AWS Sysops Administrator Associate
 
 - 👨‍💻 All of my projects are available at [-> repositories <-](https://github.com/Katesagay?tab=repositories)
 
