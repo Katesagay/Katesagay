@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kunbee.dev@outlook.com**
 
-- 📄 Know about my experiences [-> Resume <-](https://docs.google.com/document/d/1ktyP9EJuRQd6ckL54Qq1VGPDvILTyiHBNIeZip0-JYk/edit?usp=sharing) </div>
+- 📄 Know about my experiences [-> Resume <-](https://docs.google.com/document/d/100REeujvHM9veAxuiLF1LzaC-wkBUU8k7I1ZeTncUvk/edit?usp=sharing) </div>
                                                
 [![Kate Kunbi Sagay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katesagay&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
