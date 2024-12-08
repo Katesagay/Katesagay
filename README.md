@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kate Kunbi Sagay aka Kunbee</h1>
+<h1 align="center">Hi 👋, I'm Kate Kunbi Sagay</h1>
 <h3 align="center">A DevOps Engineer from United Kingdom</h3>
 
   
