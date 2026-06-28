@@ -10,7 +10,7 @@
 
 ## 👩🏾‍💻 About Me
 
-Platform Engineer with **5+ years** delivering cloud infrastructure at scale for **FTSE 250, Big Four, and public sector organisations**.  
+Platform Engineer with **7+ years** delivering cloud infrastructure at scale for **FTSE 250, Big Four, and public sector organisations**.  
 Currently at **ASOS** — building Kubernetes pipelines, Terraform IaC, and CI/CD automation on Azure.  
 Previously at **Deloitte Consulting** — led product ops for systems handling **1M+ daily peak users**.
 
